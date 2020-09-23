@@ -13,6 +13,10 @@ const options = [[1,2,3],
 let xTurn = true;
 let winner = undefined;
 
+prompt.start();
+
+
+
 while(winner === undefined) {
   console.log(board[0]);
   console.log(board[1]);
