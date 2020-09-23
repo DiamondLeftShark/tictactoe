@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DiamondLeftShark/tictactoe/issues"
   },
-  "homepage": "https://github.com/DiamondLeftShark/tictactoe#readme"
+  "homepage": "https://github.com/DiamondLeftShark/tictactoe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
